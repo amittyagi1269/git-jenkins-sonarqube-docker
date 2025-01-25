@@ -1,7 +1,7 @@
 #######################Git Setup####################################
 Access git account
-create repositry public-access and paste code here
-select repositry=>setting=>Webhooks=>Add webhook=>Payload URL(http://15.206.153.88:8080/github-webhook/)=>Which events would you like to trigger this webhook?(Let me select individual events.)=>Pull requests,Pushes=>Add webhook
+create repository public-access and paste code here
+select repository=>setting=>Webhooks=>Add webhook=>Payload URL(http://15.206.153.88:8080/github-webhook/)=>Which events would you like to trigger this webhook?(Let me select individual events.)=>Pull requests,Pushes=>Add webhook
 
 
 
